@@ -1,7 +1,8 @@
 # Code review guidelines: 
 
 - Every group member should review anything before it is merged into main branch
-- 
+- When uploading packages, be sure to leave README on what you changed, and important instructions
+- Leave comments if you have questions or suggestions
 
 # Coding standards:
 
