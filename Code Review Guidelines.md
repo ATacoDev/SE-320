@@ -1,13 +1,13 @@
 # Code review guidelines: 
 
-
+- Every group member should review anything before it is merged into main branch
+- 
 
 # Coding standards:
 
-
 ### Functions
 - Ensure you write a comment above functions to describe their functionality
-- Pascal case
+- Written in pascal case
 
 ### Variables
 - public variables writetn in **camel case**
