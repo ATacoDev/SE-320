@@ -1,6 +1,6 @@
 # Code review guidelines: 
 
-- Every group member should review anything before it is merged into main branch
+- Every group member should review anything before it is merged into main branch (done via git merge/pull/push requests)
 - When uploading packages, be sure to leave README on what you changed, and important instructions
 - Leave comments if you have questions or suggestions
 
