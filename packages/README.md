@@ -10,3 +10,6 @@ All content of the game up to project iteration 1
 
 ### Movement package: 
 Includes player movement script as well as edits to minigame 1. Also includes demo of how player movement works
+
+### Minigame 1.2
+Includes added sprites for character and background. Included functionality for delay between dashes
