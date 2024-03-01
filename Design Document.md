@@ -15,7 +15,11 @@
 - Iterative approach, as we will be iterating on each deliverable
 
 ## Implementation Plan
-
+- Started with a basic menu and scenes as a backbone
+- Create basic gameplay loop and art for minigame 1
+- Create basic gameplay loop and art for minigame 2, polish minigame 1
+- Create basic gameplay loop and art for minigame 3, polish minigame 1 and 2
+- Polish all minigames with sound effects and animations
 
 ## Conclusion
 - Overall, we plan to cater our design to kids, who will be the majority of our users. We are going for a simple design and also will use language that is easy to understand. Each deliverable will build off of each other as we continue.
