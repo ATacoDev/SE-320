@@ -23,3 +23,4 @@
 
 ## Conclusion
 - Overall, we plan to cater our design to kids, who will be the majority of our users. We are going for a simple design and also will use language that is easy to understand. Each deliverable will build off of each other as we continue.
+In the future we would like to add additional games as well as cosmetics that will hold the users attention for longer periods of time. This is due to the main issue of having replayability with our game, and having a game that the kids will want to play again and again.
