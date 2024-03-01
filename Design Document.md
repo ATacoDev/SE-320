@@ -1,7 +1,7 @@
 # Software Design Documentation
 
 ## System Overview
-
+We are building an educational game for elementary-aged students. There are sub-sections of the game that contain a mini-game per subject. These games are intended to help educate students while creating fun and engaging games. The app will be built using Unity and C#. 
 
 ## Design Considerations
 
