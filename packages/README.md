@@ -13,3 +13,7 @@ Includes player movement script as well as edits to minigame 1. Also includes de
 
 ### Minigame 1.2
 Includes added sprites for character and background. Included functionality for delay between dashes
+
+
+###FallingFruitPackage
+Includes falling fruit gameplay as well as collision checking
