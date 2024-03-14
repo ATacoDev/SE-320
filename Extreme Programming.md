@@ -25,14 +25,16 @@
 ## Working Tests (Task 1): ✅
 - User can input a string and have it compare with an answer string from an array of potential strings
 - Art assets are involved meaning that we can have characters on blocks
+- Drag and drop functionality
 ## Failed Tests (Task 1): ❌
 - Creating a bridge in which the user can build the bridge by typing out the string
 - Gameplay mechanics to show a bridge either being built or being destroyed due to correct/incorrect answers
 
 
 ## Working Tests (Task 2): ✅
-- Game logic is solid and the game now acts as normal
 - Clear win/lose conditions
+- Game flows from beginning to end smoothly
 ## Failed Tests (Task 2): ❌
 - Dash timer was slightly buggy at first, and is now being iterated on
 - Changing timer logic so that the game enhances more of the `mental math` instead of just adding with a sum in place
+- Problem with the difficulty of the game, need to add functionality to make it easier for player to remember fruit values and also needs feedback for if you caught it or not
