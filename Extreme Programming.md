@@ -1,5 +1,5 @@
 # Extreme Programming (Iteration 3)
-![bridge example](https://github.com/ATacoDev/SE-320/assets/146070033/1b43297a-cae0-40f2-bdfe-2ff6c4331872)
+<img width = "300" alt = "SE320BridgePreivew" src = https://github.com/ATacoDev/SE-320/assets/146070033/15db327d-d64d-432e-8176-ce8f42963369>
 
 ## Task & People Involved: 
 - The extreme programming task focused around our `Iteration 4` deliverable, in which we are making a word unscrambling minigame as our *2nd* minigame
