@@ -12,4 +12,10 @@
      - Create a fully active bridge if the user input the correct word
      - The bridge is broken otherwise
 
-- 
+## Working Tests:
+- User can input a string and have it compare with an answer string from an array of potential strings
+- Art assets are involved meaning that we can have characters on blocks
+
+## Failed Tests:
+- Creating a bridge in which the user can build the bridge by typing out the string
+- Gameplay mechanics to show a bridge either being built or being destroyed due to correct/incorrect answers
