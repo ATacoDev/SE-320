@@ -26,9 +26,9 @@
      - **Update:** Game feels difficult, needs to be updated to become easier. If we are struggling to do it, our predicted audience will find it *impossible*
 
 ## Working Tests (Task 1): ✅
-- User can input a string and have it compare with an answer string from an array of potential strings
-- Art assets are involved meaning that we can have characters on blocks
-- Drag and drop functionality
+- Art assets are created
+- Drag and drop functionality works
+- Block correctly slots into the correct place and can also be removed
 ## Failed Tests (Task 1): ❌
 - Creating a bridge in which the user can build the bridge by typing out the string
 - Gameplay mechanics to show a bridge either being built or being destroyed due to correct/incorrect answers
