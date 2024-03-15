@@ -1,7 +1,7 @@
 # Extreme Programming (Iteration 3)
 
 ## Task & People Involved: 
-- The extreme programming task focused around our `Iteration 4` deliverable, in which we are making a word unscrambling minigame as our *2nd* minigame
+- The extreme programming task focused around our `Minigame 1 & Minigame 2` deliverables, in which we are making a word unscrambling minigame as our *2nd* minigame, and polishing our first minigame
 - **Task 1):** Create a bare bones interface of what Minigame 2 will look like
 <img width = "200" alt = "SE320BridgePreivew" src = https://github.com/ATacoDev/SE-320/assets/146070033/15db327d-d64d-432e-8176-ce8f42963369>
 
