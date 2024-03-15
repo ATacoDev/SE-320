@@ -7,10 +7,12 @@
 
 - **People involved:** `Jaden Johnson & Sarah Yoon`
   - This involves all of the following `Unit tests:`
-     - Ensure that the user can input a **String** and have it check with the correct string and see if they match
+     - Ensure that the user can drag around a block
      - Add a visual so that the user can either drag around or move around blocks with the given characters
      - Create a fully active bridge if the user input the correct word
      - The bridge is broken otherwise
+     - When the block is dragged into the slot, it should slot into a fixed slot in the middle
+     - The block should be able to me moved back out if the user wants to
    
 - **Task 2):** Finalize and Polish/Finalize Game Logic for Game 1
 <img width="300" alt="MiniGame1MenuPreview" src="https://github.com/ATacoDev/SE-320/assets/146070033/b42fef1f-732a-4c26-88f3-ec40e0f6ba48">
@@ -21,6 +23,7 @@
      - Create game logic so that each of the individual fruit have a different value when they are caught
      - Create win/lose conditions
      - Create a timer to indicate when the dash ability is available again
+     - **Update:** Game feels difficult, needs to be updated to become easier. If we are struggling to do it, our predicted audience will find it *impossible*
 
 ## Working Tests (Task 1): ✅
 - User can input a string and have it compare with an answer string from an array of potential strings
