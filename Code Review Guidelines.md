@@ -4,6 +4,10 @@
 - When uploading packages, be sure to leave README on what you changed, and important instructions
 - Leave comments if you have questions or suggestions
 
+# Package publishing
+- Please publish all packages to your repsective branches
+- High priority packages (iteration packages) will be reviewed and then merged into the main branch
+
 # Coding standards:
 
 ### Functions
