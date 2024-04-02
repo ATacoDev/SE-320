@@ -6,11 +6,7 @@
 
 ## Table of Contents
 
-- [About Project X](#about-project-x)
-- [Getting Started](#getting-started)
-- [Resources](#resources)
-- [Feedback and Support](#feedback-and-support)
-
+see documentation [here](SE-320/packages.md)
 ---
 
 ## About Project X
