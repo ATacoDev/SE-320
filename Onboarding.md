@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-see documentation [here](SE-320/packages)
+see documentation [here](/packages)
 ---
 
 ## About Project X
