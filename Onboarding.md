@@ -1,21 +1,19 @@
-# Welcome to Project X!
+# Welcome to our project!
 
-🎉 Welcome aboard! We're thrilled to have you join our team. This document will guide you through everything you need to know to get started with Project X.
+🎉 Welcome aboard! We're thrilled to have you join our team. This document will guide you through everything you need to know to get started with our project.
+
+## About Project X
+
+We are building an educational game for elementary-aged students. There are sub-sections of the game that contain a mini-game per subject. These games are intended to help educate students while creating fun and engaging games. The app will be built using Unity and C#.
 
 ---
 
 ## Table of Contents
 
-see documentation [here](/packages)
----
-
-## About Project X
-
-Project X is an innovative platform aiming to revolutionize [specific domain/industry]. Our mission is to [brief description of project's goals].
-
-![Project X Logo](images/project_x_logo.png)
+see documentation [here](/DesignDocument.md)
 
 ---
+
 
 ## Getting Started
 
