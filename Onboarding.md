@@ -14,7 +14,7 @@ We are building an educational game for elementary-aged students. There are sub-
 
 - `Coding Guidelines`: [Link](/CodeReviewGuidelines.md)
 
-- `Packages`: [Link](/packages.md)
+- `Packages`: [Link](/packages)
 
 - `Link to our trello`: https://trello.com/invite/b/CnupqeoF/ATTId240a55fae702eb47a227b21093bcb16453FB951/se-320-backlog
 ---
