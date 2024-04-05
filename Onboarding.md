@@ -35,6 +35,6 @@ Jaden Johnson: Jadjohnson@chapman.edu
 
 Tanner Platt: Tplatt@chapman.edu
 
-Rory: Rorysullivan13@gmail.com
+Rory: rosullivan@chapman.edu
 
-Sarah: Sarahyoon29@gmail.com
+Sarah: saryoon@chapman.edu
